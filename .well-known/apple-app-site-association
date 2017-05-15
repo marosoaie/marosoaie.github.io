@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "5Y55C9D76Q.com.timesafe.pago",
+        "paths": [
+          "/forgot_password/*"
+        ]
+      }
+    ]
+  }
+}
